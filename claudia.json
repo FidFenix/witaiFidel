@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "witaiser-executor",
+    "name": "witaiser",
+    "region": "us-east-2"
+  },
+  "api": {
+    "id": "tyhkapqqra"
+  }
+}
